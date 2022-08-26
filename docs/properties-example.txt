@@ -1,0 +1,8 @@
+# Connection info for Kyle's training db
+host=training-kyle-p.cvtq9j4axrge.us-east-1.rds.amazonaws.com
+port=5432
+driver=org.postgresql.Driver
+username=postgres
+password=
+dbname=
+schema=public
